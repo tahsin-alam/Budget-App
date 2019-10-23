@@ -6,6 +6,10 @@ The time is set to the current month and year followed by two different boxes fo
 
 It starts with choosing a type where + represents the income and - represents the expense followed by description and the final value for that type. We can add up to as many as item as we wants and it calculates the final budget for the current month and year. 
 
-![image](https://user-images.githubusercontent.com/36938994/67432388-32fef980-f5b4-11e9-8fbf-d812acd57f1c.png)
+![image](https://user-images.githubusercontent.com/36938994/67433355-f7fdc580-f5b5-11e9-83c4-8744e78bf213.png)
 
-This gives a full view of how it looks like. The expenses also show what percentages of each expenses being consumed on income as well as the final expenses. 
+This gives a full view of how it looks like. The expense list also show what percentages of each expense being consumed on income as well as the final expenses. You can also delete any item from the list with pop up delete button and it will recalculate the total budget and also adjust the total income or expenses. 
+
+Demo: https://tahsin-alam.github.io/
+
+
